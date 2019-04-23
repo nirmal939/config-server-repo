@@ -6,3 +6,4 @@ report:
     color: white
     size: A4
 duration: all
+env: Prod
