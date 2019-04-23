@@ -8,3 +8,4 @@ vehicle:
  default:
   model: cross over
 duration: all
+env: prod
